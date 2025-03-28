@@ -2,6 +2,8 @@
 
 Transform your imagination into magical Ghibli Style anime scenes using our advanced AI technology. Create stunning artwork inspired by the iconic Studio Ghibli animation style.
 
+**[👉 Try Ghibli AI Generator Here!](https://ghibliaigenerator.org/)** 
+
 ## Features
 
 - **Authentic Ghibli Style**: Create artwork that captures the magical essence of Studio Ghibli's iconic anime style
